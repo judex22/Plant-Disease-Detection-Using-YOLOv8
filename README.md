@@ -6,4 +6,4 @@ PlantDoc Dataset obtained from Roboflow platform. The model achieved a Mean Aver
 This Project was implemented as a Part of my University Disseration at Queen Mary University of London. In this repository, I have included my dissertation thesis, Powerpoint 
 and video presentation, as well as two notebooks containing downloading the dataset from Roboflow platform and training the model using pre-trained YOLOv8 model.
 
-To view Files use the given[Link](https://1drv.ms/f/s!AhYpwDfE-rmng78OCit9M3Hl5ZRIOQ?e=KznLOA).
+To view Files use the given [Link](https://1drv.ms/f/s!AhYpwDfE-rmng78OCit9M3Hl5ZRIOQ?e=kczJ9x).
